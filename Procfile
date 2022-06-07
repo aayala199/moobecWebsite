@@ -1,0 +1,1 @@
+web: gunicorn moobec.wsgi --log-file -
